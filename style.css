@@ -1,0 +1,69 @@
+body {
+    background-color: #303030;
+    font-family: Verdana, Tahoma, sans-serif;
+    color: #ffffff;
+    width: 360px;
+    height: 740px;
+    flex-direction: row;
+}
+
+.title   {
+    font: bold 1em monospace;
+    text-align: center;
+}
+
+.lista {
+    background-color: #424242;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 50px 20px 20px 10px;
+}
+
+.service {
+    font: bold 20px;
+}
+
+.tachado {
+    font: oblique 15px;
+    text-decoration: line-through;
+    font-family: monospace;
+}
+
+.italico {
+    font: italic ;
+    text-decoration: underline;
+}
+
+.desconto {
+    background-color: #E90313;
+    width: 50%;
+    height: auto;
+}
+
+.strong {
+    width: 70%;
+    height: auto;
+    font: bold 1.8em monospace;
+    background-color: #00A202;
+    
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    margin: 50px 20px 20px 30px;
+}
+
+.finalizar {
+    text-decoration: none;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+img {
+    height: 60px;
+    width: 60;
+}
+
